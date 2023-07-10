@@ -1,6 +1,5 @@
 # personalres.github.io
-# aitool.github.io
-This is a solution to the [第一週 - 個人履歷]([https://rpg.hexschool.com/task/342/show](https://rpg.hexschool.com/training/36/task/self)).
+This is a solution to the [第一週 - 個人履歷](https://rochelwang1205.github.io/personalres.github.io/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%B8%BB%E7%B7%9A%E4%BB%BB%E5%8B%99.html).
 
 ## Table of contents
 
@@ -19,8 +18,8 @@ This is a solution to the [第一週 - 個人履歷]([https://rpg.hexschool.com/
 
 ### Links
 
-- Solution URL: [repo](https://github.com/rochelwang1205/aitool.github.io)
-- Live Site URL: [首頁](https://rochelwang1205.github.io/aitool.github.io/home-AI%E5%B7%A5%E5%85%B7%E7%8E%8B.html)
+- Solution URL: [repo]([https://github.com/rochelwang1205/aitool.github.io](https://github.com/rochelwang1205/personalres.github.io)
+- Live Site URL: [resume](https://rochelwang1205.github.io/personalres.github.io/%E7%AC%AC%E4%B8%80%E9%80%B1%E4%B8%BB%E7%B7%9A%E4%BB%BB%E5%8B%99.html)
 
 ## My process
 
