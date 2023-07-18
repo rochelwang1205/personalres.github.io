@@ -30,7 +30,7 @@ This is a solution to the [第一週 - 個人履歷](https://rochelwang1205.gith
 
 
 ### The following goals
-高度差修正。
+高度差已修正。
 
 ### Useful resources
 
